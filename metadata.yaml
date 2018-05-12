@@ -1,0 +1,35 @@
+_repo: Ideas-of-Good-and-Evil_32884
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Yeats, W. B. (William Butler)
+    alias: Yeats, William Butler
+    birthdate: 1865
+    deathdate: 1939
+    gutenberg_agent_id: '1719'
+    url: http://www.gutenberg.org/2009/agents/1719
+    wikipedia: http://en.wikipedia.org/wiki/William_Butler_Yeats
+description: ''
+gutenberg_issued: '2010-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32884'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'PR'
+tableOfContents: What is 'popular poetry'? -- Speaking to the psaltery -- Magic --
+  The happiest of the poets -- The philosophy of Shelley's poetry -- At Stratford-on-Avon
+  -- William Blake and the imagination -- William Blake and his illustrations to The
+  divine comedy -- Symbolism in painting -- The symbolism of poetry -- The theatre
+  -- The Celtic element in literature -- The autumn of the body -- The moods -- The
+  body of the Father Christian Rosencrux -- The return of Ulysses -- Ireland and the
+  arts -- The Galway plains -- Emotion of multitude.
+title: Ideas of Good and Evil
+url: http://www.gutenberg.org/ebooks/32884
